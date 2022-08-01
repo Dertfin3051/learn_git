@@ -1,3 +1,3 @@
 print("Я изучаю Git, чтобы стать Junior-Python разработчиком.")
-version = 0.2
+version = 0.4
 # Version Control
